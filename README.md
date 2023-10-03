@@ -1,2 +1,3 @@
 # portfolio-website
--portfolio website for me that is shown how my work is
+Welcome to my portfolio website! This website serves as a showcase of my work, skills.
+
